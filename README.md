@@ -3,9 +3,9 @@
 **I am working on designing machine learning systems for advancing audio engineering.** 
 
 This includes things like:
-- Improving the quality of recordings.    [ [flowEQ](https://floweq.ml/) ]
+- Improving the quality of recordings.    [ [flowEQ](https://floweq.ml/) [IIRNet](https://github.com/csteinmetz1/IIRNet) ]
 - Learning how to create multitrack mixes.   [ [DMC](https://csteinmetz1.github.io/dmc-icassp2021/) ]
-- Designing audio effects to augment creativity.   [ [ronn](https://csteinmetz1.github.io/ronn/) | [NeuralReverberator](https://www.christiansteinmetz.com/projects-blog/neuralreverberator) | [micro-tcn](https://csteinmetz1.github.io/tcn-audio-effects/) ]
+- Designing audio effects to augment creativity.   [ [steerable-nafx](https://github.com/csteinmetz1/steerable-nafx) [ronn](https://csteinmetz1.github.io/ronn/) | [NeuralReverberator](https://www.christiansteinmetz.com/projects-blog/neuralreverberator) | [micro-tcn](https://csteinmetz1.github.io/tcn-audio-effects/) ]
 
 I have also built a number of audio packages, such as [auraloss](https://github.com/csteinmetz1/auraloss) for audio-focused loss functions, as well as [pyloudnorm]() for simple measurement of perceptual loudness, and [pymixconsole](https://github.com/csteinmetz1/pymixconsole) a headless DAW in Python.
 
